@@ -18,5 +18,4 @@ References, useful sources:
 * https://sci-hub.se/https://aapt.scitation.org/doi/pdf/10.1119/1.12511
 * https://sci-hub.se/https://pubmed.ncbi.nlm.nih.gov/9386207/
 * https://sci-hub.se/https://www.researchgate.net/publication/225902052_Basketball_shooting_strategies_-_the_free_throw_direct_shot_and_layup
-
 * https://official.nba.com/rule-no-1-court-dimensions-equipment/ [court dimensions]
