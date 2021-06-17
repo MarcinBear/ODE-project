@@ -11,11 +11,4 @@ References, useful sources:
 * https://www.tsijournals.com/articles/the-application-of-projectile-damped-motion-in-the-research-of-basketball-movement-trajectory-based-on-matlab-numerical-.pdf
 * https://www.tsijournals.com/articles/mechanical-model-of-hollow-basket-shot-angle-and-matlab-simulationof-the-basketball-movement-trajectory.pdf
 * https://indico.cern.ch/event/163205/contributions/1413227/attachments/192775/270516/Team351.pdf
-* https://sci-hub.se/https://www.researchgate.net/publication/245372854_Numerical_Analysis_of_the_Basketball_Shot
-* https://www.jocpr.com/articles/correlation-analysis-on-biomechanics-parameters-of-basketball-shooting-based-on-differential-equations.pdf
-* https://sci-hub.se/https://www.tandfonline.com/doi/abs/10.1080/02640410500520401
-* https://sci-hub.se/https://link.springer.com/article/10.1007/BF02843970
-* https://sci-hub.se/https://aapt.scitation.org/doi/pdf/10.1119/1.12511
-* https://sci-hub.se/https://pubmed.ncbi.nlm.nih.gov/9386207/
-* https://sci-hub.se/https://www.researchgate.net/publication/225902052_Basketball_shooting_strategies_-_the_free_throw_direct_shot_and_layup
 * https://official.nba.com/rule-no-1-court-dimensions-equipment/ [court dimensions]
